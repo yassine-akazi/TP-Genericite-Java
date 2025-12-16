@@ -349,56 +349,17 @@ Les contributions sont les bienvenues !  Voici comment participer :
 - Pas de limite sur le nombre de produits pouvant être ajoutés
 - Les prix négatifs ne sont pas validés
 
-## 📄 License
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
-```
-MIT License
-
-Copyright (c) 2025 Yassine Akazi
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE. 
-```
 
 ## 👤 Auteur
 
 **Yassine Akazi**
 
 - GitHub:  [@yassine-akazi](https://github.com/yassine-akazi)
-- Email: contact@yassineakazi.com
+- Email: akazi.yassine@gmail.com
 
-## 🙏 Remerciements
 
-- Merci aux marques marocaines pour leur contribution à l'économie locale
-- Inspiration tirée des systèmes de gestion d'inventaire modernes
-- Communauté Java pour les ressources et la documentation
 
-## 📞 Support
-
-Pour toute question ou problème : 
-
-- 📧 Email : support@gestion-produits. ma
-- 💬 Issues : [GitHub Issues](https://github.com/yassine-akazi/gestion-produits-maroc/issues)
-- 📖 Documentation : [Wiki du projet](https://github.com/yassine-akazi/gestion-produits-maroc/wiki)
-
----
 
 <div align="center">
 
