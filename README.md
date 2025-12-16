@@ -32,7 +32,7 @@ L'application propose les fonctionnalités suivantes via un menu textuel :
 
 Toutes les modifications notables de ce projet seront documentées dans cette section.
 
-### [1.0.0] - 2024-XX-XX
+
 #### Ajouté
 - Création de la classe entité `Produit` avec constructeurs et accesseurs.
 - Création de l'interface générique `IMetier<T>` pour standardiser les opérations.
