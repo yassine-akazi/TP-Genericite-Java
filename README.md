@@ -18,7 +18,7 @@ Application Java en ligne de commande pour gérer un inventaire de produits maro
 - [Exemples](#exemples)
 - [Contribuer](#contribuer)
 - [Auteur](#auteur)
-- [License](#license)
+
 
 ## 📖 À propos
 
